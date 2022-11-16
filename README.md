@@ -1,1 +1,1 @@
-# DMW
+Data Mining and Warehousing Assignment 1
